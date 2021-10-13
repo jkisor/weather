@@ -1,10 +1,10 @@
 # weather
-Basic weather CLI used for during coaching sessions
+Basic weather CLI used for during coaching sessions. Requires API key from openweathermap.org
 
 ## Usage
 
 ```
-ruby main.rb 
+API_KEY=abc123 ruby main.rb
 Enter ZIP code: 94402
 ----------
 Date: 10/13/2021
